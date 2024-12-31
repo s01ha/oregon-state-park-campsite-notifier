@@ -1,0 +1,11 @@
+[
+    {"park_id": "402235", "park_name": "Silver Falls State Park"},
+    {"park_id": "402486", "park_name": "Tumalo State Park"},
+    {"park_id": "402446", "park_name": "Cove Palisades State Park"},
+    {"park_id": "402241", "park_name": "Detroit Lake State Recreation Area"},
+    {"park_id": "402155", "park_name": "Beachside State Recreation Site"},
+    {"park_id": "402461", "park_name": "Prineville Reservoir State Park"},
+    {"park_id": "402479", "park_name": "LaPine State Park"},
+    {"park_id": "402267", "park_name": "Memaloose State Park", "site_type": "TENT_SITE"},
+    {"park_id": "402465", "park_name": "Deschutes River State Recreation Area", "site_type": "PRIMITIVE"}
+]

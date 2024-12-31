@@ -1,0 +1,8 @@
+services:
+  app:
+    container_name: oregon-state-park-notifier
+    build: ./app
+    image: python-cron:latest
+    restart: unless-stopped
+    environment:
+      - 'TZ=Asia/Seoul'
